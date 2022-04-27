@@ -1,0 +1,12 @@
+.slick-prev:before , .slick-next:before{
+    color: gray !important;
+    font-size: 3rem !important;
+}
+
+/* Responsive */
+/* desktop */
+@media screen and (min-width:1024px) {
+    .numberCard{
+        
+    }
+}

@@ -1,0 +1,18 @@
+/* desktop */
+@media screen and (min-width: 1024.99px) {
+  .resizeText {
+    font-size: 1.3vw;
+  }
+}
+
+/* tablet */
+@media screen and (max-width: 1023.99px) {
+  .resizeText {
+    font-size: 1.5vw;
+  }
+}
+@media screen and (max-width:575.99px) {
+    .resizeText{
+      font-size: 2vw;
+    }
+}
